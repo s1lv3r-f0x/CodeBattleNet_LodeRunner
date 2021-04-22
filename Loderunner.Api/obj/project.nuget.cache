@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6irdMASIMKF8Uq0YS/MGqP/r3YodKAP5Yd+hCAXPjIYyjB9OmrYp2rpagUYgTeFR4UHrD+X2bUzWbNWd6ibyfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yatin\\Desktop\\CodeBattleNet\\Loderunner.Api\\Loderunner.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yatin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yatin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\yatin\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

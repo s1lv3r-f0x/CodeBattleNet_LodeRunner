@@ -1,0 +1,9 @@
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.deps.json
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.dll
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.pdb
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.csprojAssemblyReference.cache
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.AssemblyInfoInputs.cache
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.AssemblyInfo.cs
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.csproj.CoreCompileInputs.cache
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.dll
+C:\Users\yatin\Desktop\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.pdb
